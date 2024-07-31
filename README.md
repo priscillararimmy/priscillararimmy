@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priscillararimmy
 - I live in :brazil:, Floripa :sunglasses::sunrise:
-- I’m Full Stack Developer Student :computer:
+- I’m Full Stack Developer :computer:
 
 
 ## Connect with me:
